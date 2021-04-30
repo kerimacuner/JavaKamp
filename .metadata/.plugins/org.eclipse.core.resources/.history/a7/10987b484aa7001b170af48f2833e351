@@ -1,0 +1,9 @@
+package kampOopIntro;
+
+public class ProductManager {
+	
+	public void addToCart() {
+		
+	}
+
+}

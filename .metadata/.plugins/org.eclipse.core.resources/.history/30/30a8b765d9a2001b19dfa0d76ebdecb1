@@ -1,0 +1,14 @@
+package kampIntro1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String internetSubeButonu = "Ýnternet Þubesi";
+		Double dolarDun = 8.15;
+		
+		System.out.println(internetSubeButonu);
+		
+	}
+
+}
