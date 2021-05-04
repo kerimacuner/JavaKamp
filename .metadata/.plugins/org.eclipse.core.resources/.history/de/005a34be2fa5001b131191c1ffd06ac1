@@ -1,9 +1,0 @@
-package kampOopIntro;
-
-public class Product {
-	
-	String name;
-	double unitPrice;
-	String detail;
-
-}

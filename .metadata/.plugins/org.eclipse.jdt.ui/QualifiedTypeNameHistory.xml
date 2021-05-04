@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="kampOopIntro.Product"/>
     <fullyQualifiedTypeName name="kampOopIntro.ProductManager"/>
@@ -10,9 +9,11 @@
     <fullyQualifiedTypeName name="kampInheritance.CustomerManager"/>
     <fullyQualifiedTypeName name="kampInheritance.SendikaCustomer"/>
     <fullyQualifiedTypeName name="kampInheritance2.LogManager"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="kampInheritance2.DatabaseLogger"/>
     <fullyQualifiedTypeName name="kampInheritance2.CustomerManager"/>
     <fullyQualifiedTypeName name="kampInheritance2.FileLogger"/>
     <fullyQualifiedTypeName name="kampInheritance2.EmailLogger"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="kampGun3Odev.Student"/>
 </qualifiedTypeNameHistroy>
